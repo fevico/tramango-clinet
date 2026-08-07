@@ -30,7 +30,7 @@ A modern, responsive web application for viewing luxury travel packages and book
 
 ## 🛠️ API Integration Specifications
 
-Connected to Express/MongoDB backend at `http://localhost:3000/api` (configurable via `NEXT_PUBLIC_API_BASE_URL`):
+Connected to Express/MongoDB backend at `http://localhost:8000/api` (configurable via `NEXT_PUBLIC_API_BASE_URL`):
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
